@@ -8,9 +8,9 @@ seniority_level(3)
 qualifications["Secondary School","Chef level 3", "Souffle level 2"]
 salary(40000)
 times_dishes_cooked {
-  :tomato_soup 17,
-  :fillet_steak 13,
-  :creme_brule 9
+  tomato_soup: 17,
+  fillet_steak: 13,
+  creme_brule: 9
 }
 ```
 
